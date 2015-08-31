@@ -1,0 +1,4 @@
+This is a complicated file that will have merge conflicts
+You see one branch wants it one way
+And the other branch wants it the other
+What will happen?
