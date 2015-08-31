@@ -1,5 +1,5 @@
 This is a complicated file that will have merge conflicts
 You see one branch wants it one way
 The complicated branch added this line
-And the other branch wants it the other
+And the other branch RANDOM TEXT ADDED BY COMPLICATED BRANCH wants it the other
 What will happen?
