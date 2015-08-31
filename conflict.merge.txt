@@ -3,5 +3,8 @@ You see one branch wants it one way
 The complicated branch added this line
 And the other branch  wants it the other
 What will happen?
+<<<<<<< HEAD
 This is a line added by the master branch
+=======
 This is a line added by the complicated branch
+>>>>>>> complicated
